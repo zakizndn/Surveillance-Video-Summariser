@@ -1,7 +1,7 @@
 # Surveillance Video Summarization
 ECE3086 - Multimedia Technology and Applications 
 
-Project Title: Development of an Intelligent Multimedia System for Surveillance Video Monitoring.
+Development of an Intelligent Multimedia System for Surveillance Video Monitoring.
 
 #### Requirement 1
 Find the video frame rate, resolution, and uncompressed video size
