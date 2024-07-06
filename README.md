@@ -1,4 +1,4 @@
-# Surveillance Video Summarization
+# Surveillance Video Summariser
 ECE3086 - Multimedia Technology and Applications 
 
 Development of an Intelligent Multimedia System for Surveillance Video Monitoring.
